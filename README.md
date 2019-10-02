@@ -5,7 +5,7 @@
 > **Proposers pay (with dynamic value 'charges' to initiate proposals), voters get paid (with dynamic value 'reward' to usher in voters)**.
 
 A DApp where a user can add any issue or propose some idea/view in the form of text or small sized images which will be stored on the blockchain network (forever)!
-People can react to the proposals or issues by upvoting / downvoting it.
+People can react to the proposals or issues by upvoting or downvoting it.
 This platform can be used to arrange elections in which we can upvote our favourite view or idea.
 The ideas or proposal getting more votes will be trending or appearing at top respectively.
 
